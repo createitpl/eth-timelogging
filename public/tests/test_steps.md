@@ -40,7 +40,7 @@
 #
 
 `curl -X GET \
-  http://127.0.0.1:8080/logs/validate/id/0 \
+  http://127.0.0.1:8080/logs/validate/hashid/0 \
   -H 'Cache-Control: no-cache' \
   -H 'Postman-Token: 0f8ce38f-a84b-4d75-9dc3-fa7f3f1ce780'`
 
@@ -82,6 +82,6 @@
 #
 
 `curl -X GET \
-  http://127.0.0.1:8080/logs/validate/id/1 \
+  http://127.0.0.1:8080/logs/validate/hashid/1 \
   -H 'Cache-Control: no-cache' \
   -H 'Postman-Token: 0f8ce38f-a84b-4d75-9dc3-fa7f3f1ce780'`
