@@ -82,6 +82,8 @@ Follow the steps in `test_steps.md` for a quick demostration
 
 example request body:
 
+all 4 fields are required
+
 `{
  	"user": "test_user1@company.com",
  	"task": "test_task1",
